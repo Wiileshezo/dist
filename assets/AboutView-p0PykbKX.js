@@ -1,0 +1,1 @@
+import{_ as a,c as o,o as c,p as s,b as t,d as _}from"./index-AzokA5O0.js";const d={},n=e=>(s("data-v-0c4aab89"),e=e(),t(),e),p=n(()=>_("h1",null,"This is an about page",-1)),r=[p];function i(e,l){return c(),o("div",null,r)}const h=a(d,[["render",i],["__scopeId","data-v-0c4aab89"]]);export{h as default};
